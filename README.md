@@ -70,7 +70,7 @@ Este projeto é o resultado da **Prova 2 - Trabalho Final** da disciplina de Apl
 
 Desenvolvido por:
 - Denis Gomes Bomfim - 202211029
-- Marcos Luiz de Souza Reis - 202211072
+- Marcos Luiz de Sousa Reis - 202211072
 
 ---
 
